@@ -1,0 +1,20 @@
+ | Issue: Engine won't start.
+ | Answer: Check battery, ignition system.
+
+ | Issue: Strange engine noises.
+ | Answer: Inspect belts, pulleys, bearings.
+
+ | Issue: Car pulls left/right.
+ | Answer: Align wheels, check tire pressure.
+
+ | Issue: Brake pedal spongy.
+ | Answer: Bleed brake system, check fluid.
+
+ | Issue: AC not cooling.
+ | Answer: Check refrigerant levels, compressor.
+
+ | Issue: Transmission slipping.
+ | Answer: Check fluid level, inspect transmission.
+
+ | Issue: Dashboard warning lights.
+ | Answer: Scan for error codes.
